@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.csproj.user
+*.dbmdl
+*.bak
+*.log
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NLog
+nlog.config
+
+# Entity Framework
+*.pdb
+*.db
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Dotnet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# OS-specific files
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# Thumbnails
+._*
+
+# IDE files
+.vscode/
